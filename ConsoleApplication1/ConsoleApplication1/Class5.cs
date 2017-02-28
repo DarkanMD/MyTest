@@ -8,5 +8,7 @@ namespace ConsoleApplication1
 {
     class Class5
     {
+
+        public int MyProperty { get; set; }
     }
 }
